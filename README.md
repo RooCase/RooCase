@@ -1,6 +1,6 @@
 I'm a US-based IT Support engineer, systems nerd, and overall sociable geek. 
 
-I occasionally have use for some code, and put it up here. A lot of the stuff I've written (or have more recently vibecoded, since I almost never write code that is production-critical) have been tools to automate somethign boring, solve some problem that there wasn't an easy off-the-shelf product for, or otherwise I thought might be an interesting challenge.
+I occasionally have use for some code, and put it up here. A lot of the stuff I've written (or have more recently vibecoded, since I almost never write code that is production-critical) have been tools to automate something boring, solve some problem that there wasn't an easy off-the-shelf product for, or otherwise I thought might be an interesting challenge. I put stuff up here with the hope that at some point, someone will stumble across one of my projects having struggled and failed to solve the same problem themselves.
 
 I'm not looking for additional work or using this as a portfolio. Feel free to contact me if there are any major issues with my code that you're unsure how to solve for your implementation
 <!--
